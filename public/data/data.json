@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Creatina ENA",
+        "price": "$30.000",
+        "img": "/img/1.webp",
+        "stock": true
+    },
+    {
+        "id": 2,
+        "name": "WHEY PROTEIN",
+        "price": "$40.000",
+        "img": "/img/2.webp",
+        "stock": false
+    },
+    {
+        "id": 3,
+        "name": "Barritas proteicas",
+        "price": "$20.000",
+        "img": "/img/3.webp",
+        "stock": true
+    },
+    {
+        "id": 4,
+        "name": "Magnesio",
+        "price": "$15.000",
+        "img": "/img/4.webp",
+        "stock": false
+    },
+    {
+        "id": 5,
+        "name": "Leche de almendra",
+        "price": "$5.000",
+        "img": "/img/5.webp",
+        "stock": true
+    },
+    {
+        "id": 6,
+        "name": "Pasta de mani",
+        "price": "$4.000",
+        "img": "/img/6.webp",
+        "stock": false
+    }
+]
