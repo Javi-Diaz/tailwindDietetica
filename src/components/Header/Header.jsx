@@ -39,7 +39,7 @@ function Header(){
             ">
                 <FaAlignJustify 
                     className="
-                        ml-2
+                        ml-4
                         text-[32px]
                         lg:hidden
                         cursor-pointer
