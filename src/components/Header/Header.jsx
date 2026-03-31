@@ -16,14 +16,7 @@ function Header(){
     const [ref, visible] = useInView({ threshold: 0.5 });
 
     return(
-        <header /* className="
-            sticky top-0 z-100 lg:relative
-            bg-white 
-            pb-4
-            shadow-md
-            animate-fadeIn
-        " */
-
+        <header 
             className={`
             sticky top-0 z-100 lg:relative
             bg-white 
@@ -47,7 +40,7 @@ function Header(){
                 <FaAlignJustify 
                     className="
                         ml-2
-                        text-xl
+                        text-[32px]
                         lg:hidden
                         cursor-pointer
                     "
@@ -67,8 +60,7 @@ function Header(){
                     <h1 
                         className="
                             ml-2 
-                            font-bold text-[24px] whitespace-nowrap
-                            lg:text-[32px]
+                            font-bold text-[32px] whitespace-nowrap
                         "
                     >
                         Tailwind Dietetica
