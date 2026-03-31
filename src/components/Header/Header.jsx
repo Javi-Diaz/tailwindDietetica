@@ -93,7 +93,7 @@ function Header(){
                         right-1.5
                     "
                 />
-                <div className="absolute top-full w-[227px] rounded-b-2xl shadow-xl overflow-hidden ">
+                <div className="absolute top-full w-full rounded-b-2xl shadow-xl overflow-hidden ">
                     {busqueda && <Results busqueda={busqueda}/>}
                 </div>
                 

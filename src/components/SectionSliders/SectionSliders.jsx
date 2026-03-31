@@ -66,7 +66,7 @@ function SectionSliders({ titulo, id }) {
     <section className="
       lg:max-w-360
       lg:m-auto
-      scroll-mt-38 lg:scroll-mt-0
+      scroll-mt-44.5 lg:scroll-mt-0
     "
       id={id}
     >

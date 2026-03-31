@@ -22,6 +22,7 @@ function Results({ busqueda }) {
                 return (
                     <div key={product.id}
                         className="
+                            w-full
                             bg-white 
                             flex items-center gap-3 
                             border-b border-[#0000001f]
