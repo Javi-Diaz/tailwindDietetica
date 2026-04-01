@@ -9,7 +9,7 @@ function Menu({ mostrarMenu, setMostrarMenu }) {
             bg-white 
             p-2
             flex flex-col
-            transition-all duration-700 ease-out
+            transition-left duration-750 ease-in-out
         `}
         >
             <div className="
